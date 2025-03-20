@@ -1,0 +1,239 @@
+Sales Transactions,,,,,
+Order,Product,Category,Region,Month,Sales
+ORD001,Laptop,Computers & Laptops,West,January,152000
+ORD002,Smartphone,Mobile Devices,East,January,98000
+ORD003,Tablet,Mobile Devices,North,January,72000
+ORD004,Smartwatch,Wearable Devices,South,January,51000
+ORD005,Wireless Earbuds,Audio Devices,East,January,43000
+ORD006,Gaming Console,Gaming Devices,West,January,67000
+ORD007,Smart TV,Home Entertainment,North,January,125000
+ORD008,Bluetooth Speaker,Audio Devices,South,January,37000
+ORD009,Camera,Cameras & Photography,East,January,92000
+ORD010,External Hard Drive,Storage Devices,West,January,45000
+ORD011,Smart Home Assistant,Smart Home Devices,South,February,82000
+ORD012,Router,Networking Devices,North,February,39000
+ORD013,Refrigerator,Home Appliances,East,February,64000
+ORD014,Washing Machine,Home Appliances,West,February,72000
+ORD015,Laptop,Computers & Laptops,South,February,165000
+ORD016,Smartphone,Mobile Devices,North,February,105000
+ORD017,Tablet,Mobile Devices,West,February,77000
+ORD018,Smartwatch,Wearable Devices,East,February,53000
+ORD019,Wireless Earbuds,Audio Devices,South,February,45000
+ORD020,Gaming Console,Gaming Devices,North,February,69000
+ORD021,Smart TV,Home Entertainment,West,February,132000
+ORD022,Bluetooth Speaker,Audio Devices,East,February,39000
+ORD023,Camera,Cameras & Photography,North,March,96000
+ORD024,External Hard Drive,Storage Devices,South,March,47000
+ORD025,Smart Home Assistant,Smart Home Devices,West,March,86000
+ORD026,Refrigerator,Home Appliances,East,March,67000
+ORD027,Refrigerator,Home Appliances,South,March,67000
+ORD028,Washing Machine,Home Appliances,North,March,75000
+ORD029,Laptop,Computers & Laptops,North,March,175000
+ORD030,Smartphone,Mobile Devices,West,March,112000
+ORD031,Tablet,Mobile Devices,East,March,83000
+ORD032,Smartwatch,Wearable Devices,South,March,56000
+ORD033,Wireless Earbuds,Audio Devices,West,March,48000
+ORD034,Gaming Console,Gaming Devices,South,March,72000
+ORD035,Smart TV,Home Entertainment,East,March,138000
+ORD036,Camera,Cameras & Photography,North,March,100000
+ORD037,Camera,Cameras & Photography,West,March,100000
+ORD038,External Hard Drive,Storage Devices,South,March,50000
+ORD039,Smart Home Assistant,Smart Home Devices,East,March,90000
+ORD040,Router,Networking Devices,West,March,43000
+ORD041,Refrigerator,Home Appliances,North,March,69000
+ORD042,Washing Machine,Home Appliances,South,March,79000
+ORD043,Laptop,Computers & Laptops,East,April,185000
+ORD044,Smartphone,Mobile Devices,South,April,119000
+ORD045,Tablet,Mobile Devices,West,April,87000
+ORD046,Smartwatch,Wearable Devices,North,April,59000
+ORD047,Wireless Earbuds,Audio Devices,East,April,50000
+ORD048,Gaming Console,Gaming Devices,North,April,74000
+ORD049,Smart TV,Home Entertainment,South,April,145000
+ORD050,Camera,Cameras & Photography,East,April,104000
+ORD051,Camera,Cameras & Photography,South,April,104000
+ORD052,External Hard Drive,Storage Devices,East,April,52000
+ORD053,Smart Home Assistant,Smart Home Devices,North,April,95000
+ORD054,Router,Networking Devices,South,April,46000
+ORD055,Refrigerator,Home Appliances,West,April,73000
+ORD056,Washing Machine,Home Appliances,East,April,82000
+ORD057,Laptop,Computers & Laptops,East,April,185000
+ORD058,Smartphone,Mobile Devices,South,April,119000
+ORD059,Tablet,Mobile Devices,West,April,87000
+ORD060,Smartwatch,Wearable Devices,North,April,59000
+ORD061,Wireless Earbuds,Audio Devices,East,April,50000
+ORD062,Gaming Console,Gaming Devices,North,April,74000
+ORD063,Laptop,Computers & Laptops,West,January,152000
+ORD064,Smartphone,Mobile Devices,East,January,98000
+ORD065,Tablet,Mobile Devices,North,January,72000
+ORD066,Smartwatch,Wearable Devices,South,January,51000
+ORD067,Wireless Earbuds,Audio Devices,East,January,43000
+ORD068,Gaming Console,Gaming Devices,West,January,67000
+ORD069,Smart TV,Home Entertainment,North,January,125000
+ORD070,Bluetooth Speaker,Audio Devices,South,January,37000
+ORD071,Camera,Cameras & Photography,East,January,92000
+ORD072,External Hard Drive,Storage Devices,West,January,45000
+ORD073,Smart Home Assistant,Smart Home Devices,South,January,82000
+ORD074,Router,Networking Devices,North,January,39000
+ORD075,Refrigerator,Home Appliances,East,January,64000
+ORD076,Washing Machine,Home Appliances,West,January,72000
+ORD077,Laptop,Computers & Laptops,South,February,165000
+ORD078,Smartphone,Mobile Devices,North,February,105000
+ORD079,Tablet,Mobile Devices,West,February,77000
+ORD080,Smartwatch,Wearable Devices,East,February,53000
+ORD081,Wireless Earbuds,Audio Devices,South,February,45000
+ORD082,Gaming Console,Gaming Devices,North,February,69000
+ORD083,Smart TV,Home Entertainment,West,February,132000
+ORD084,Bluetooth Speaker,Audio Devices,East,February,39000
+ORD085,Camera,Cameras & Photography,North,February,96000
+ORD086,External Hard Drive,Storage Devices,South,February,47000
+ORD087,Smart Home Assistant,Smart Home Devices,West,February,86000
+ORD088,Router,Networking Devices,East,February,41000
+ORD089,Refrigerator,Home Appliances,South,February,67000
+ORD090,Washing Machine,Home Appliances,North,February,75000
+ORD091,Laptop,Computers & Laptops,North,March,175000
+ORD092,Smartphone,Mobile Devices,West,March,112000
+ORD093,Tablet,Mobile Devices,East,March,83000
+ORD094,Smartwatch,Wearable Devices,South,March,56000
+ORD095,Wireless Earbuds,Audio Devices,West,March,48000
+ORD096,Gaming Console,Gaming Devices,South,March,72000
+ORD097,Smart TV,Home Entertainment,East,March,138000
+ORD098,Bluetooth Speaker,Audio Devices,North,March,42000
+ORD099,Camera,Cameras & Photography,West,March,100000
+ORD100,External Hard Drive,Storage Devices,South,March,50000
+ORD101,Smart Home Assistant,Smart Home Devices,East,March,90000
+ORD102,Router,Networking Devices,West,March,43000
+ORD103,Refrigerator,Home Appliances,North,March,69000
+ORD104,Washing Machine,Home Appliances,South,March,79000
+ORD105,Laptop,Computers & Laptops,East,April,185000
+ORD106,Smartphone,Mobile Devices,South,April,119000
+ORD107,Tablet,Mobile Devices,West,April,87000
+ORD108,Smartwatch,Wearable Devices,North,April,59000
+ORD109,Wireless Earbuds,Audio Devices,East,April,50000
+ORD110,Gaming Console,Gaming Devices,North,April,74000
+ORD111,Smart TV,Home Entertainment,South,April,145000
+ORD112,Bluetooth Speaker,Audio Devices,West,April,45000
+ORD113,Camera,Cameras & Photography,South,April,104000
+ORD114,External Hard Drive,Storage Devices,East,April,52000
+ORD115,Smart Home Assistant,Smart Home Devices,North,April,95000
+ORD116,Router,Networking Devices,South,April,46000
+ORD117,Refrigerator,Home Appliances,West,April,73000
+ORD118,Washing Machine,Home Appliances,East,April,82000
+ORD119,Laptop,Computers & Laptops,South,May,165000
+ORD120,Smartphone,Mobile Devices,North,May,105000
+ORD121,Tablet,Mobile Devices,West,May,77000
+ORD122,Smartwatch,Wearable Devices,East,May,53000
+ORD123,Wireless Earbuds,Audio Devices,South,May,45000
+ORD124,Gaming Console,Gaming Devices,North,May,69000
+ORD125,Smart TV,Home Entertainment,West,May,132000
+ORD126,Bluetooth Speaker,Audio Devices,East,May,39000
+ORD127,Camera,Cameras & Photography,North,May,96000
+ORD128,External Hard Drive,Storage Devices,South,May,47000
+ORD129,Smart Home Assistant,Smart Home Devices,West,May,86000
+ORD130,Router,Networking Devices,East,May,41000
+ORD131,Refrigerator,Home Appliances,South,May,67000
+ORD132,Washing Machine,Home Appliances,North,May,75000
+ORD133,Bluetooth Speaker,Audio Devices,East,May,39000
+ORD134,Camera,Cameras & Photography,North,May,96000
+ORD135,External Hard Drive,Storage Devices,South,May,47000
+ORD136,Smart Home Assistant,Smart Home Devices,West,May,86000
+ORD137,Router,Networking Devices,East,May,41000
+ORD138,Refrigerator,Home Appliances,South,May,67000
+ORD139,Washing Machine,Home Appliances,North,May,75000
+ORD140,Gaming Console,Gaming Devices,North,May,69000
+ORD141,Smart TV,Home Entertainment,West,May,132000
+ORD142,Laptop,Computers & Laptops,East,June,185000
+ORD143,Smartphone,Mobile Devices,South,June,119000
+ORD144,Tablet,Mobile Devices,West,June,87000
+ORD145,Smartwatch,Wearable Devices,North,June,59000
+ORD146,Wireless Earbuds,Audio Devices,East,June,50000
+ORD147,Gaming Console,Gaming Devices,North,June,74000
+ORD148,Smart TV,Home Entertainment,South,June,145000
+ORD149,Bluetooth Speaker,Audio Devices,West,June,45000
+ORD150,Camera,Cameras & Photography,South,June,104000
+ORD151,External Hard Drive,Storage Devices,East,June,52000
+ORD152,Smart Home Assistant,Smart Home Devices,North,June,95000
+ORD153,Router,Networking Devices,South,June,46000
+ORD154,Refrigerator,Home Appliances,West,June,73000
+ORD155,Washing Machine,Home Appliances,East,June,82000
+ORD156,Smartphone,Mobile Devices,West,June,112000
+ORD157,Tablet,Mobile Devices,East,June,83000
+ORD158,Smartwatch,Wearable Devices,South,June,56000
+ORD159,Wireless Earbuds,Audio Devices,West,June,48000
+ORD160,Gaming Console,Gaming Devices,South,June,72000
+ORD161,Smart TV,Home Entertainment,East,June,138000
+ORD162,Bluetooth Speaker,Audio Devices,North,June,42000
+ORD163,Camera,Cameras & Photography,West,June,100000
+ORD164,External Hard Drive,Storage Devices,South,June,50000
+ORD165,Smart Home Assistant,Smart Home Devices,East,June,90000
+ORD166,Router,Networking Devices,West,June,43000
+ORD167,Refrigerator,Home Appliances,North,June,69000
+ORD168,Washing Machine,Home Appliances,South,June,79000
+ORD169,Laptop,Computers & Laptops,East,June,185000
+ORD170,Smartphone,Mobile Devices,South,June,119000
+ORD171,Tablet,Mobile Devices,West,June,87000
+ORD172,Smartwatch,Wearable Devices,North,June,59000
+ORD173,Wireless Earbuds,Audio Devices,East,June,50000
+ORD174,Gaming Console,Gaming Devices,North,June,74000
+ORD175,Smart TV,Home Entertainment,South,June,145000
+ORD176,Tablet,Mobile Devices,East,May,83000
+ORD177,Smartwatch,Wearable Devices,South,May,56000
+ORD178,Wireless Earbuds,Audio Devices,West,May,48000
+ORD179,Gaming Console,Gaming Devices,South,May,72000
+ORD180,Smart TV,Home Entertainment,East,May,138000
+ORD181,Bluetooth Speaker,Audio Devices,North,May,42000
+ORD182,Camera,Cameras & Photography,West,May,100000
+ORD183,External Hard Drive,Storage Devices,South,May,50000
+ORD184,Smart Home Assistant,Smart Home Devices,East,May,90000
+ORD185,Router,Networking Devices,West,May,43000
+ORD186,Refrigerator,Home Appliances,North,May,69000
+ORD187,Washing Machine,Home Appliances,South,May,79000
+ORD188,Laptop,Computers & Laptops,East,May,185000
+ORD189,Smartphone,Mobile Devices,South,May,119000
+ORD190,Tablet,Mobile Devices,West,May,87000
+ORD191,Camera,Cameras & Photography,West,May,100000
+ORD192,External Hard Drive,Storage Devices,South,May,50000
+ORD193,Smart Home Assistant,Smart Home Devices,East,May,90000
+ORD194,Router,Networking Devices,West,May,43000
+ORD195,Refrigerator,Home Appliances,North,May,69000
+ORD196,Washing Machine,Home Appliances,South,May,79000
+ORD197,Laptop,Computers & Laptops,East,May,185000
+ORD198,Smartphone,Mobile Devices,South,May,119000
+ORD199,Tablet,Mobile Devices,West,May,87000
+ORD200,Smartwatch,Wearable Devices,North,May,59000
+ORD201,Wireless Earbuds,Audio Devices,East,May,50000
+ORD202,Gaming Console,Gaming Devices,North,May,74000
+ORD203,Smart TV,Home Entertainment,South,May,145000
+ORD204,Bluetooth Speaker,Audio Devices,West,May,45000
+ORD205,Tablet,Mobile Devices,North,June,72000
+ORD206,Smartwatch,Wearable Devices,South,June,51000
+ORD207,Wireless Earbuds,Audio Devices,East,June,43000
+ORD208,Gaming Console,Gaming Devices,West,June,67000
+ORD209,Smart TV,Home Entertainment,North,June,125000
+ORD210,Bluetooth Speaker,Audio Devices,South,June,37000
+ORD211,Camera,Cameras & Photography,East,June,92000
+ORD212,External Hard Drive,Storage Devices,West,June,45000
+ORD213,Smart Home Assistant,Smart Home Devices,South,June,82000
+ORD214,Router,Networking Devices,North,June,39000
+ORD215,Refrigerator,Home Appliances,East,June,64000
+ORD216,Washing Machine,Home Appliances,West,June,72000
+ORD217,Laptop,Computers & Laptops,South,June,165000
+ORD218,Smartphone,Mobile Devices,North,June,105000
+ORD219,Tablet,Mobile Devices,West,June,77000
+ORD220,Smartwatch,Wearable Devices,East,June,53000
+ORD221,Wireless Earbuds,Audio Devices,South,June,45000
+ORD222,Gaming Console,Gaming Devices,North,June,69000
+ORD223,Smart TV,Home Entertainment,West,June,132000
+ORD224,Bluetooth Speaker,Audio Devices,East,June,39000
+ORD225,Camera,Cameras & Photography,North,June,96000
+ORD226,External Hard Drive,Storage Devices,South,June,47000
+ORD227,Smart Home Assistant,Smart Home Devices,West,June,86000
+ORD228,Router,Networking Devices,East,June,41000
+ORD229,Refrigerator,Home Appliances,South,June,67000
+ORD230,Washing Machine,Home Appliances,North,June,75000
+ORD231,Laptop,Computers & Laptops,North,June,175000
+ORD232,Smartphone,Mobile Devices,West,June,112000
+ORD233,Tablet,Mobile Devices,East,June,83000
+ORD234,Smartwatch,Wearable Devices,South,June,56000
+ORD235,Wireless Earbuds,Audio Devices,West,June,48000
+ORD236,Gaming Console,Gaming Devices,South,June,72000
+ORD237,Smart TV,Home Entertainment,East,June,138000
