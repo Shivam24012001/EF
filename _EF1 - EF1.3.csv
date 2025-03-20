@@ -1,0 +1,18 @@
+Weekly Order Summary,,
+Food Item,Category,Monday
+Burger,Fast Food,150
+Pizza,Fast Food,120
+Pasta,Italian,80
+Salad,Italian,60
+Ice Cream,Dessert,200
+Cake,Dessert,150
+,,
+,,
+Daily Change,,
+Name,Change,
+Burger,3,Increment
+Pizza,0,No Change
+Pasta,5,Increment
+Salad,3,Increment
+Ice Cream,0,Increment
+Cake,-2,Decrement
